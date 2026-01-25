@@ -164,11 +164,3 @@ It emphasizes **practical implementation details**, **training stability**, and 
 
 ---
 
-If you want next, I can:
-
-* Add a **results table** (very strong for resumes)
-* Tighten language for **research vs industry audience**
-* Write a **1–2 line GitHub description** and **tags**
-* Help you reference this cleanly on your resume or LinkedIn
-
-Just tell me.
