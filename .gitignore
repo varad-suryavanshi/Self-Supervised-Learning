@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs / cluster outputs
+*.out
+*.log
+logs/
+wandb/
+tb_logs/
+runs/
+
+# Checkpoints / large artifacts
+checkpoints/
+*.pth
+*.pt
+*.ckpt
+*.tar
+*.tar.gz
+
+# Data (keep code, not datasets)
+data/
+datasets/
+*.npy
+*.npz
+
+# OS
+.DS_Store
