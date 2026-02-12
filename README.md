@@ -74,7 +74,6 @@ Each subdirectory is **self-contained** and includes training scripts and (where
 
 📂 `swav/`
 
-> Note: This folder follows the standard SwAV-style code structure and includes the original license.
 
 ---
 
@@ -116,7 +115,6 @@ To assess representation quality, I used **feature-based evaluation**:
 
 This isolates the **quality of learned representations** from downstream model capacity.
 
-> Evaluation scripts are described in documentation rather than fully included, to keep the repo focused on learning objectives.
 
 ---
 
@@ -163,4 +161,5 @@ This project provides a **hands-on, end-to-end exploration of modern self-superv
 It emphasizes **practical implementation details**, **training stability**, and **compute-aware decision making**, reflecting real-world ML research and engineering constraints.
 
 ---
+
 
